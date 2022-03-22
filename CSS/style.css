@@ -1,0 +1,46 @@
+.inline-block{
+    display:inline-block;
+    vertical-align: top;
+}
+.logo{
+    width: 23%;
+    padding:1%;
+    text-align: center;
+}
+nav{
+    width: 150%;
+    padding:5%
+}
+li{
+    width: 20%;
+    margin-left:auto ;
+    font-family: 'Fredoka', sans-serif;
+}
+.heroImg{
+    height: 550px;
+    padding: 1px;
+}
+.content{
+    width: 350px;
+    margin: 0 auto;
+    font-family: 'Fredoka', sans-serif;
+}
+footer{
+    background-color: #EEE4DB;
+    padding: 1%;
+    text-align: center;
+    font-family: 'Fredoka', sans-serif;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    padding: 5%;
+    width: 35%;
+}
+button{
+    background-color: #CE9C90;
+    color:#EEEADB;
+    border-radius: 30px;
+    border-color: #CE9C90;
+    font-family: 'Fredoka', sans-serif;
+}
